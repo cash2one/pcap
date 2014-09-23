@@ -1,0 +1,12 @@
+{
+    "name": "pcap",
+    "description": "Tool for parsing pcap files",
+    "url": "github:///minersoft/pcap",
+    "version": "1.0.0",
+    "build": 2,
+    "last_modified": "2014-09-22 23:30:00",
+    "dependencies": [],
+    "external_modules": [ {"name": "dpkt", "import_name": "dpkt", "url": "https://code.google.com/p/dpkt/downloads/list"} ],
+    "external_resources": [],    
+    "changelog": []
+}
